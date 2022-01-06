@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
     margin-top: 5%;
 }
 .half-width{
@@ -10,7 +10,7 @@ body{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .half-width img{
     width: 80%;
@@ -87,7 +87,12 @@ h1{
     background-color: black;
     color: white;
     text-align: center;
+    font-weight: bolder;
 }
 .footer-button{
     text-decoration: none;
+}
+.bonus-head{
+    text-align: center;
+    font-weight: bolder;
 }
