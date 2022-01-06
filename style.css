@@ -74,3 +74,20 @@ h1{
     background-repeat: no-repeat;
     background-position: left ;
 }
+#fourth{
+    background-image: url(images/shapes//fourth-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+#last{
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer-button{
+    text-decoration: none;
+}
