@@ -60,6 +60,7 @@ h1{
 }
 .para{
     text-align: justify;
+    padding-right: 2px;
 }
 .link-docu{
     text-decoration: none;
