@@ -68,3 +68,9 @@ h1{
     background-color: #FF5959;
     padding: 10px 20px;
     border-radius: 5px;
+}
+#third{
+    background-image: url(images/shapes/third-bg.png);
+    background-repeat: no-repeat;
+    background-position: left ;
+}
